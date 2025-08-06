@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 
 Cambios desde GitHub
 
-## Nuevo desde local
+## Nuevo
